@@ -1,0 +1,13 @@
+# node
+node_modules/
+dist/
+
+# java
+target/
+*.log
+
+# env
+.env
+
+# mac
+.DS_Store
